@@ -1,5 +1,5 @@
 # Clase10-SPD
 
-Mi primer repositorio
+Mi primer repositorio en github
 
-Me gustan lo animales, documentales y escuchar musica.
+Me gustan los animales, documentales y escuchar musica.
